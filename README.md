@@ -8,4 +8,4 @@ Features :
 2) Reset Game button
 3) different color player with win-message display
 
-<a href="https://tic-tac-toe-using-htmlcssjs.netlify.app/" style="text-decoration:none; color="red";>LIVE DEMO</a>
+**[LIVE DEMO](https://tic-tac-toe-using-htmlcssjs.netlify.app/)**
